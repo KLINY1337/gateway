@@ -1,0 +1,1 @@
+redirect-url: https://data-api.cryptocompare.com/futures/v1/historical/hours?market=%s&instrument=%s&limit=2000&fill=0&to_ts=%d
